@@ -1,14 +1,16 @@
 #principal{
 width: 600px;
 height: 800px;
-border: solid 0px;
+border: solid 1px;
 margin: 0 auto;
+text-align:center;
 
 }
 
 #apresentacao{
   font-size: large;
-  background-color:#CECECE;
+  margin: 0 auto;
+
   width: 400px;
   height: 100px;
   margin-top:200px;
@@ -17,6 +19,9 @@ margin: 0 auto;
 }
 
 #apresentacao p{
-  padding-top:190px;
+ border: solid 1px;
+  padding-top:20px;
+  padding-bottom:20px;
+  background-color: #CECECE;
   
 }
